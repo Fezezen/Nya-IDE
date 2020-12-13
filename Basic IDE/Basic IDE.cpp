@@ -456,7 +456,7 @@ void RunKeys() { // keybinds while running a compiled cpp file
 int main()
 {
 	system("mode con: cols=90 lines=35"); // set console size
-	SetConsoleTitle(L"Funny IDE"); // set titled
+	SetConsoleTitle(L"Nya++ IDE"); // set titled
 
 	vector<string> helloWorld = { // default program
 	"#include <iostream>",
