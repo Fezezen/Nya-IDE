@@ -1,6 +1,6 @@
 # Nya++ IDE 
 
-Nya++ is a code editor I wrote in C++ for fun.
+Nya++ is a code editor written by Jaxson.M in C++ for fun.
 
 Nya++ isn't really meant for actual use, instead it's meant just to challenge my skills
 
